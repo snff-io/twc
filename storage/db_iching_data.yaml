@@ -1,0 +1,1367 @@
+hexagrams:
+- anumber: 1
+  binary: '111111'
+  bottomTrigram: 1
+  character: "\u4DC0"
+  chineseName: "\u4E7E"
+  domain: Celestial
+  lines:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  names:
+  - Force
+  - The Creative
+  number: 1
+  pinyinName: "qi\xE1n"
+  topTrigram: 1
+- anumber: 2
+  binary: '000000'
+  bottomTrigram: 2
+  character: "\u4DC1"
+  chineseName: "\u5764"
+  domain: Ground
+  lines:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  names:
+  - Field
+  - The Receptive
+  number: 2
+  pinyinName: "k\u016Bn"
+  topTrigram: 2
+- anumber: 3
+  binary: '010001'
+  bottomTrigram: 3
+  character: "\u4DC2"
+  chineseName: "\u5C6F"
+  domain: Storm
+  lines:
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+  - 0
+  names:
+  - Sprouting
+  - Difficulty at the Beginning
+  number: 3
+  pinyinName: "zh\u016Bn"
+  topTrigram: 4
+- anumber: 4
+  binary: '100010'
+  bottomTrigram: 4
+  character: "\u4DC3"
+  chineseName: "\u8499"
+  domain: Cascade
+  lines:
+  - 0
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+  names:
+  - Enveloping
+  - Youthful Folly
+  number: 4
+  pinyinName: "m\xE9ng"
+  topTrigram: 5
+- anumber: 5
+  binary: '010111'
+  bottomTrigram: 1
+  character: "\u4DC4"
+  chineseName: "\u9700"
+  domain: Rain
+  lines:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 1
+  - 0
+  names:
+  - Attending
+  - Waiting
+  number: 5
+  pinyinName: "x\u016B"
+  topTrigram: 4
+- anumber: 6
+  binary: '111010'
+  bottomTrigram: 4
+  character: "\u4DC5"
+  chineseName: "\u8A1F"
+  domain: Mist
+  lines:
+  - 0
+  - 1
+  - 0
+  - 1
+  - 1
+  - 1
+  names:
+  - Arguing
+  - Conflict
+  number: 6
+  pinyinName: "s\xF2ng"
+  topTrigram: 1
+- anumber: 7
+  binary: '000010'
+  bottomTrigram: 4
+  character: "\u4DC6"
+  chineseName: "\u5E2B"
+  domain: Shore
+  lines:
+  - 0
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  names:
+  - Leading
+  - The Army
+  number: 7
+  pinyinName: "sh\u012B"
+  topTrigram: 2
+- anumber: 8
+  binary: '010000'
+  bottomTrigram: 2
+  character: "\u4DC7"
+  chineseName: "\u6BD4"
+  domain: Delta
+  lines:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 0
+  names:
+  - Grouping
+  - Holding Together [Union]
+  number: 8
+  pinyinName: "b\u01D0"
+  topTrigram: 4
+- anumber: 9
+  binary: '110111'
+  bottomTrigram: 1
+  character: "\u4DC8"
+  chineseName: "\u5C0F\u755C"
+  domain: Gale
+  lines:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 1
+  - 1
+  names:
+  - Small Accumulating
+  - The Taming Power of the Small
+  number: 9
+  pinyinName: "xi\u01CEo ch\xF9"
+  topTrigram: 6
+- anumber: 10
+  binary: '111011'
+  bottomTrigram: 8
+  character: "\u4DC9"
+  chineseName: "\u5C65"
+  domain: Swamp
+  lines:
+  - 1
+  - 1
+  - 0
+  - 1
+  - 1
+  - 1
+  names:
+  - Treading
+  - Conduct
+  number: 10
+  pinyinName: "l\u01DA"
+  topTrigram: 1
+- anumber: 11
+  binary: '000111'
+  bottomTrigram: 1
+  character: "\u4DCA"
+  chineseName: "\u6CF0"
+  domain: Valley
+  lines:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  names:
+  - Pervading
+  - Peace
+  number: 11
+  pinyinName: "t\xE0i"
+  topTrigram: 2
+- anumber: 12
+  binary: '111000'
+  bottomTrigram: 2
+  character: "\u4DCB"
+  chineseName: "\u5426"
+  domain: Sky
+  lines:
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  names:
+  - Obstruction
+  - Standstill (Stagnation)
+  number: 12
+  pinyinName: "p\u01D0"
+  topTrigram: 1
+- anumber: 13
+  binary: '111101'
+  bottomTrigram: 7
+  character: "\u4DCC"
+  chineseName: "\u540C\u4EBA"
+  domain: Aurora
+  lines:
+  - 1
+  - 0
+  - 1
+  - 1
+  - 1
+  - 1
+  names:
+  - Concording People
+  - Fellowship with Men
+  number: 13
+  pinyinName: "t\xF3ng r\xE9n"
+  topTrigram: 1
+- anumber: 14
+  binary: '101111'
+  bottomTrigram: 1
+  character: "\u4DCD"
+  chineseName: "\u5927\u6709"
+  domain: Inferno
+  lines:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0
+  - 1
+  names:
+  - Great Possessing
+  - Possession in Great Measure
+  number: 14
+  pinyinName: "d\xE0 y\u01D2u"
+  topTrigram: 7
+- anumber: 15
+  binary: '000100'
+  bottomTrigram: 5
+  character: "\u4DCE"
+  chineseName: "\u8B19"
+  domain: Plateau
+  lines:
+  - 0
+  - 0
+  - 1
+  - 0
+  - 0
+  - 0
+  names:
+  - Humbling
+  - Modesty
+  number: 15
+  pinyinName: "qi\u0101n"
+  topTrigram: 2
+- anumber: 16
+  binary: '001000'
+  bottomTrigram: 2
+  character: "\u4DCF"
+  chineseName: "\u8C6B"
+  domain: Quake
+  lines:
+  - 0
+  - 0
+  - 0
+  - 1
+  - 0
+  - 0
+  names:
+  - Providing-For
+  - Enthusiasm
+  number: 16
+  pinyinName: "y\xF9"
+  topTrigram: 3
+- anumber: 17
+  binary: '011001'
+  bottomTrigram: 3
+  character: "\u4DD0"
+  chineseName: "\u96A8"
+  domain: Fen
+  lines:
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  names:
+  - Following
+  number: 17
+  pinyinName: "su\xED"
+  topTrigram: 8
+- anumber: 18
+  binary: '100110'
+  bottomTrigram: 6
+  character: "\u4DD1"
+  chineseName: "\u8831"
+  domain: Summit
+  lines:
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  names:
+  - Correcting
+  - Work on What Has Been Spoiled [Decay]
+  number: 18
+  pinyinName: "g\u01D4"
+  topTrigram: 5
+- anumber: 19
+  binary: '000011'
+  bottomTrigram: 8
+  character: "\u4DD2"
+  chineseName: "\u81E8"
+  domain: Hill
+  lines:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  names:
+  - Nearing
+  - Approach
+  number: 19
+  pinyinName: "l\xEDn"
+  topTrigram: 2
+- anumber: 20
+  binary: '110000'
+  bottomTrigram: 2
+  character: "\u4DD3"
+  chineseName: "\u89C0"
+  domain: Breeze
+  lines:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  names:
+  - Viewing
+  - Contemplation (View)
+  number: 20
+  pinyinName: "gu\u0101n"
+  topTrigram: 6
+- anumber: 21
+  binary: '101001'
+  bottomTrigram: 3
+  character: "\u4DD4"
+  chineseName: "\u566C\u55D1"
+  domain: Lightning
+  lines:
+  - 1
+  - 0
+  - 0
+  - 1
+  - 0
+  - 1
+  names:
+  - Gnawing Bite
+  - Biting Through
+  number: 21
+  pinyinName: "sh\xEC k\xE8"
+  topTrigram: 7
+- anumber: 22
+  binary: '100101'
+  bottomTrigram: 7
+  character: "\u4DD5"
+  chineseName: "\u8CC1"
+  domain: Volcano
+  lines:
+  - 1
+  - 0
+  - 1
+  - 0
+  - 0
+  - 1
+  names:
+  - Adorning
+  - Grace
+  number: 22
+  pinyinName: "b\xEC"
+  topTrigram: 5
+- anumber: 23
+  binary: '100000'
+  bottomTrigram: 2
+  character: "\u4DD6"
+  chineseName: "\u525D"
+  domain: Mesa
+  lines:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  names:
+  - Stripping
+  - Splitting Apart
+  number: 23
+  pinyinName: "b\u014D"
+  topTrigram: 5
+- anumber: 24
+  binary: '000001'
+  bottomTrigram: 3
+  character: "\u4DD7"
+  chineseName: "\u5FA9"
+  domain: Flood
+  lines:
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  names:
+  - Returning
+  - Return (The Turning Point)
+  number: 24
+  pinyinName: "f\xF9"
+  topTrigram: 2
+- anumber: 25
+  binary: '111001'
+  bottomTrigram: 3
+  character: "\u4DD8"
+  chineseName: "\u7121\u5984"
+  domain: Rapids
+  lines:
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  names:
+  - Without Embroiling
+  - Innocence (The Unexpected)
+  number: 25
+  pinyinName: "w\xFA w\xE0ng"
+  topTrigram: 1
+- anumber: 26
+  binary: '100111'
+  bottomTrigram: 1
+  character: "\u4DD9"
+  chineseName: "\u5927\u755C"
+  domain: Peninsula
+  lines:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  names:
+  - Great Accumulating
+  - The Taming Power of the Great
+  number: 26
+  pinyinName: "d\xE0 ch\xF9"
+  topTrigram: 5
+- anumber: 27
+  binary: '100001'
+  bottomTrigram: 3
+  character: "\u4DDA"
+  chineseName: "\u9824"
+  domain: Marsh
+  lines:
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  names:
+  - Swallowing
+  - The Corners of the Mouth (Providing Nourishment)
+  number: 27
+  pinyinName: "y\xED"
+  topTrigram: 5
+- anumber: 28
+  binary: '011110'
+  bottomTrigram: 6
+  character: "\u4DDB"
+  chineseName: "\u5927\u904E"
+  domain: Lake
+  lines:
+  - 0
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0
+  names:
+  - Great Exceeding
+  - Preponderance of the Great
+  number: 28
+  pinyinName: "d\xE0 gu\xF2"
+  topTrigram: 8
+- anumber: 29
+  binary: '010010'
+  bottomTrigram: 4
+  character: "\u4DDC"
+  chineseName: "\u574E"
+  domain: Lava
+  lines:
+  - 0
+  - 1
+  - 0
+  - 0
+  - 1
+  - 0
+  names:
+  - Gorge
+  - The Abysmal (Water)
+  number: 29
+  pinyinName: "k\u01CEn"
+  topTrigram: 4
+- anumber: 30
+  binary: '101101'
+  bottomTrigram: 7
+  character: "\u4DDD"
+  chineseName: "\u96E2"
+  domain: Ember
+  lines:
+  - 1
+  - 0
+  - 1
+  - 1
+  - 0
+  - 1
+  names:
+  - Radiance
+  - The Clinging, Fire
+  number: 30
+  pinyinName: "l\xED"
+  topTrigram: 7
+- anumber: 31
+  binary: '011100'
+  bottomTrigram: 5
+  character: "\u4DDE"
+  chineseName: "\u54B8"
+  domain: Gust
+  lines:
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  names:
+  - Conjoining
+  - Influence (Wooing)
+  number: 31
+  pinyinName: "xi\xE1n"
+  topTrigram: 8
+- anumber: 32
+  binary: '001110'
+  bottomTrigram: 6
+  character: "\u4DDF"
+  chineseName: "\u6046"
+  domain: Bog
+  lines:
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  names:
+  - Persevering
+  - Duration
+  number: 32
+  pinyinName: "h\xE9ng"
+  topTrigram: 3
+- anumber: 33
+  binary: '111100'
+  bottomTrigram: 5
+  character: "\u4DE0"
+  chineseName: "\u906F"
+  domain: Gush
+  lines:
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  - 1
+  names:
+  - Retiring
+  - Retreat
+  number: 33
+  pinyinName: "d\xF9n"
+  topTrigram: 1
+- anumber: 34
+  binary: '001111'
+  bottomTrigram: 1
+  character: "\u4DE1"
+  chineseName: "\u5927\u58EF"
+  domain: Peak
+  lines:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  names:
+  - Great Invigorating
+  - The Power of the Great
+  number: 34
+  pinyinName: "d\xE0 zhu\xE0ng"
+  topTrigram: 3
+- anumber: 35
+  binary: '101000'
+  bottomTrigram: 2
+  character: "\u4DE2"
+  chineseName: "\u6649"
+  domain: Ridge
+  lines:
+  - 0
+  - 0
+  - 0
+  - 1
+  - 0
+  - 1
+  names:
+  - Prospering
+  - Progress
+  number: 35
+  pinyinName: "j\xECn"
+  topTrigram: 7
+- anumber: 36
+  binary: '000101'
+  bottomTrigram: 7
+  character: "\u4DE3"
+  chineseName: "\u660E\u5937"
+  domain: Crest
+  lines:
+  - 1
+  - 0
+  - 1
+  - 0
+  - 0
+  - 0
+  names:
+  - Darkening of the Light
+  number: 36
+  pinyinName: "m\xEDng y\xED"
+  topTrigram: 2
+- anumber: 37
+  binary: '110101'
+  bottomTrigram: 7
+  character: "\u4DE4"
+  chineseName: "\u5BB6\u4EBA"
+  domain: Blaze
+  lines:
+  - 1
+  - 0
+  - 1
+  - 0
+  - 1
+  - 1
+  names:
+  - Dwelling People
+  - The Family [The Clan]
+  number: 37
+  pinyinName: "ji\u0101 r\xE9n"
+  topTrigram: 6
+- anumber: 38
+  binary: '101011'
+  bottomTrigram: 8
+  character: "\u4DE5"
+  chineseName: "\u777D"
+  domain: Ripple
+  lines:
+  - 1
+  - 1
+  - 0
+  - 1
+  - 0
+  - 1
+  names:
+  - Polarizing
+  - Opposition
+  number: 38
+  pinyinName: "ku\xED"
+  topTrigram: 7
+- anumber: 39
+  binary: '010100'
+  bottomTrigram: 5
+  character: "\u4DE6"
+  chineseName: "\u8E47"
+  domain: Fen
+  lines:
+  - 0
+  - 0
+  - 1
+  - 0
+  - 1
+  - 0
+  names:
+  - Limping
+  - Obstruction
+  number: 39
+  pinyinName: "ji\u01CEn"
+  topTrigram: 4
+- anumber: 40
+  binary: '001010'
+  bottomTrigram: 4
+  character: "\u4DE7"
+  chineseName: "\u89E3"
+  domain: Torrent
+  lines:
+  - 0
+  - 1
+  - 0
+  - 1
+  - 0
+  - 0
+  names:
+  - Taking-Apart
+  - Deliverance
+  number: 40
+  pinyinName: "xi\xE8"
+  topTrigram: 3
+- anumber: 41
+  binary: '100011'
+  bottomTrigram: 8
+  character: "\u4DE8"
+  chineseName: "\u640D"
+  domain: Rapids
+  lines:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+  names:
+  - Diminishing
+  - Decrease
+  number: 41
+  pinyinName: "s\u01D4n"
+  topTrigram: 5
+- anumber: 42
+  binary: '110001'
+  bottomTrigram: 3
+  character: "\u4DE9"
+  chineseName: "\u76CA"
+  domain: Steam
+  lines:
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  names:
+  - Augmenting
+  - Increase
+  number: 42
+  pinyinName: "y\xEC"
+  topTrigram: 6
+- anumber: 43
+  binary: '011111'
+  bottomTrigram: 1
+  character: "\u4DEA"
+  chineseName: "\u592C"
+  domain: Flood
+  lines:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0
+  names:
+  - Displacement
+  - Break-through (Resoluteness)
+  number: 43
+  pinyinName: "gu\xE0i"
+  topTrigram: 8
+- anumber: 44
+  binary: '111110'
+  bottomTrigram: 6
+  character: "\u4DEB"
+  chineseName: "\u59E4"
+  domain: Avalanche
+  lines:
+  - 0
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  names:
+  - Coupling
+  - Coming to Meet
+  number: 44
+  pinyinName: "g\xF2u"
+  topTrigram: 1
+- anumber: 45
+  binary: '011000'
+  bottomTrigram: 2
+  character: "\u4DEC"
+  chineseName: "\u8403"
+  domain: Canyon
+  lines:
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  names:
+  - Clustering
+  - Gathering Together [Massing]
+  number: 45
+  pinyinName: "cu\xEC"
+  topTrigram: 8
+- anumber: 46
+  binary: '000110'
+  bottomTrigram: 6
+  character: "\u4DED"
+  chineseName: "\u5347"
+  domain: Crater
+  lines:
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  names:
+  - Ascending
+  - Pushing Upward
+  number: 46
+  pinyinName: "sh\u0113ng"
+  topTrigram: 2
+- anumber: 47
+  binary: '011010'
+  bottomTrigram: 4
+  character: "\u4DEE"
+  chineseName: "\u56F0"
+  domain: Glacier
+  lines:
+  - 0
+  - 1
+  - 0
+  - 1
+  - 1
+  - 0
+  names:
+  - Confining
+  - Oppression (Exhaustion)
+  number: 47
+  pinyinName: "k\xF9n"
+  topTrigram: 8
+- anumber: 48
+  binary: '010110'
+  bottomTrigram: 6
+  character: "\u4DEF"
+  chineseName: "\u4E95"
+  domain: Oasis
+  lines:
+  - 0
+  - 1
+  - 1
+  - 0
+  - 1
+  - 0
+  names:
+  - Welling
+  - The Well
+  number: 48
+  pinyinName: "j\u01D0ng"
+  topTrigram: 4
+- anumber: 49
+  binary: '011101'
+  bottomTrigram: 7
+  character: "\u4DF0"
+  chineseName: "\u9769"
+  domain: Tornado
+  lines:
+  - 1
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  names:
+  - Skinning
+  - Revolution (Molting)
+  number: 49
+  pinyinName: "g\xE9"
+  topTrigram: 8
+- anumber: 50
+  binary: '101110'
+  bottomTrigram: 6
+  character: "\u4DF1"
+  chineseName: "\u9F0E"
+  domain: Tsunami
+  lines:
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  - 1
+  names:
+  - Holding
+  - The Caldron
+  number: 50
+  pinyinName: "d\u01D0ng"
+  topTrigram: 7
+- anumber: 51
+  binary: '001001'
+  bottomTrigram: 3
+  character: "\u4DF2"
+  chineseName: "\u9707"
+  domain: Desert
+  lines:
+  - 1
+  - 0
+  - 0
+  - 1
+  - 0
+  - 0
+  names:
+  - Shake
+  - The Arousing (Shock, Thunder)
+  number: 51
+  pinyinName: "zh\xE8n"
+  topTrigram: 3
+- anumber: 52
+  binary: '100100'
+  bottomTrigram: 5
+  character: "\u4DF3"
+  chineseName: "\u826E"
+  domain: Jungle
+  lines:
+  - 0
+  - 0
+  - 1
+  - 0
+  - 0
+  - 1
+  names:
+  - Bound
+  - Keeping Still, Mountain
+  number: 52
+  pinyinName: "g\xE8n"
+  topTrigram: 5
+- anumber: 53
+  binary: '110100'
+  bottomTrigram: 5
+  character: "\u4DF4"
+  chineseName: "\u6F38"
+  domain: Savanna
+  lines:
+  - 0
+  - 0
+  - 1
+  - 0
+  - 1
+  - 1
+  names:
+  - Infiltrating
+  - Development (Gradual Progress)
+  number: 53
+  pinyinName: "ji\xE0n"
+  topTrigram: 6
+- anumber: 54
+  binary: '001011'
+  bottomTrigram: 8
+  character: "\u4DF5"
+  chineseName: "\u6B78\u59B9"
+  domain: Tundra
+  lines:
+  - 1
+  - 1
+  - 0
+  - 1
+  - 0
+  - 0
+  names:
+  - Converting the Maiden
+  - The Marrying Maiden
+  number: 54
+  pinyinName: "gu\u012B m\xE8i"
+  topTrigram: 3
+- anumber: 55
+  binary: '001101'
+  bottomTrigram: 7
+  character: "\u4DF6"
+  chineseName: "\u8C50"
+  domain: Volcano
+  lines:
+  - 1
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  names:
+  - Abouding
+  - Abundance [Fullness]
+  number: 55
+  pinyinName: "f\u0113ng"
+  topTrigram: 3
+- anumber: 56
+  binary: '101100'
+  bottomTrigram: 5
+  character: "\u4DF7"
+  chineseName: "\u65C5"
+  domain: Waterfall
+  lines:
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 1
+  names:
+  - Sojourning
+  - The Wanderer
+  number: 56
+  pinyinName: "l\u01DA"
+  topTrigram: 7
+- anumber: 57
+  binary: '110110'
+  bottomTrigram: 6
+  character: "\u4DF8"
+  chineseName: "\u5DFD"
+  domain: Dune
+  lines:
+  - 0
+  - 1
+  - 1
+  - 0
+  - 1
+  - 1
+  names:
+  - Ground
+  - The Gentle (The Penetrating, Wind)
+  number: 57
+  pinyinName: "x\xF9n"
+  topTrigram: 6
+- anumber: 58
+  binary: '011011'
+  bottomTrigram: 8
+  character: "\u4DF9"
+  chineseName: "\u514C"
+  domain: Fjord
+  lines:
+  - 1
+  - 1
+  - 0
+  - 1
+  - 1
+  - 0
+  names:
+  - Open
+  - The Joyous, Lake
+  number: 58
+  pinyinName: "du\xEC"
+  topTrigram: 8
+- anumber: 59
+  binary: '110010'
+  bottomTrigram: 4
+  character: "\u4DFA"
+  chineseName: "\u6E19"
+  domain: Geyser
+  lines:
+  - 0
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  names:
+  - Dispersing
+  - Dispersion [Dissolution]
+  number: 59
+  pinyinName: "hu\xE0n"
+  topTrigram: 6
+- anumber: 60
+  binary: '010011'
+  bottomTrigram: 8
+  character: "\u4DFB"
+  chineseName: "\u7BC0"
+  domain: Coral Reef
+  lines:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 0
+  names:
+  - Articulating
+  - Limitation
+  number: 60
+  pinyinName: "ji\xE9"
+  topTrigram: 4
+- anumber: 61
+  binary: '110011'
+  bottomTrigram: 8
+  character: "\u4DFC"
+  chineseName: "\u4E2D\u5B5A"
+  domain: Iceberg
+  lines:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  names:
+  - Center Returing
+  - Inner Truth
+  number: 61
+  pinyinName: "zh\u014Dng f\xFA"
+  topTrigram: 6
+- anumber: 62
+  binary: '001100'
+  bottomTrigram: 5
+  character: "\u4DFD"
+  chineseName: "\u5C0F\u904E"
+  domain: Sinkhole
+  lines:
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  names:
+  - Small Exceeding
+  - Preponderance of the Small
+  number: 62
+  pinyinName: "xi\u01CEo gu\xF2"
+  topTrigram: 3
+- anumber: 63
+  binary: '010101'
+  bottomTrigram: 7
+  character: "\u4DFE"
+  chineseName: "\u65E2\u6FDF"
+  domain: Cavern
+  lines:
+  - 1
+  - 0
+  - 1
+  - 0
+  - 1
+  - 0
+  names:
+  - Already Fording
+  - After Completion
+  number: 63
+  pinyinName: "j\xEC j\xEC"
+  topTrigram: 4
+- anumber: 64
+  binary: '101010'
+  bottomTrigram: 4
+  character: "\u4DFF"
+  chineseName: "\u672A\u6FDF"
+  domain: Hurricane
+  lines:
+  - 0
+  - 1
+  - 0
+  - 1
+  - 0
+  - 1
+  names:
+  - Not Yet Fording
+  - Before Completion
+  number: 64
+  pinyinName: "w\xE8i j\xEC"
+  topTrigram: 7
+
+
+
+
+
+
+
+trigrams:
+- attribute: strong
+  binary: '111'
+  character: "\u2630"
+  chineseImage: "\u5929"
+  chineseName: "\u4E7E"
+  familyRelationship: father
+  images:
+  - heaven
+  lines:
+  - 1
+  - 1
+  - 1
+  names:
+  - Force
+  - The Creative
+  number: 1
+  pinyinImage: "ti\u0101n"
+  pinyinName: "qi\xE1n"
+- attribute: devoted, yielding
+  binary: '000'
+  character: "\u2637"
+  chineseImage: "\u5730"
+  chineseName: "\u5764"
+  familyRelationship: mother
+  images:
+  - earth
+  lines:
+  - 0
+  - 0
+  - 0
+  names:
+  - Field
+  - The Receptive
+  number: 2
+  pinyinImage: "d\xEC"
+  pinyinName: "k\u016Bn"
+- attribute: inciting movement
+  binary: '001'
+  character: "\u2633"
+  chineseImage: "\u96F7"
+  chineseName: "\u9707"
+  familyRelationship: first son
+  images:
+  - thunder
+  lines:
+  - 1
+  - 0
+  - 0
+  names:
+  - Shake
+  - The Arousing
+  number: 3
+  pinyinImage: "l\xE9i"
+  pinyinName: "zh\xE8n"
+- attribute: dangerous
+  binary: '010'
+  character: "\u2635"
+  chineseImage: "\u6C34"
+  chineseName: "\u574E"
+  familyRelationship: second son
+  images:
+  - water
+  lines:
+  - 0
+  - 1
+  - 0
+  names:
+  - Gorge
+  - The Abysmal
+  number: 4
+  pinyinImage: "shu\u01D0"
+  pinyinName: "k\u01CEn"
+- attribute: resting
+  binary: '100'
+  character: "\u2636"
+  chineseImage: "\u5C71"
+  chineseName: "\u826E"
+  familyRelationship: third son
+  images:
+  - mountain
+  lines:
+  - 0
+  - 0
+  - 1
+  names:
+  - Bound
+  - Keeping Still
+  number: 5
+  pinyinImage: "sh\u0101n"
+  pinyinName: "g\xE8n"
+- attribute: penetrating
+  binary: '110'
+  character: "\u2634"
+  chineseImage: "\u98A8"
+  chineseName: "\u5DFD"
+  familyRelationship: first daughter
+  images:
+  - wind
+  lines:
+  - 0
+  - 1
+  - 1
+  names:
+  - Ground
+  - The Gentle
+  number: 6
+  pinyinImage: "f\u0113ng"
+  pinyinName: "x\xF9n"
+- attribute: light-giving
+  binary: '101'
+  character: "\u2632"
+  chineseImage: "\u706B"
+  chineseName: "\u96E2"
+  familyRelationship: second daughter
+  images:
+  - fire
+  lines:
+  - 1
+  - 0
+  - 1
+  names:
+  - Radiance
+  - The Clinging
+  number: 7
+  pinyinImage: "hu\u01D2"
+  pinyinName: "l\xED"
+- attribute: joyful
+  binary: '011'
+  character: "\u2631"
+  chineseImage: "\u6FA4"
+  chineseName: "\u514C"
+  familyRelationship: third daughter
+  images:
+  - swamp
+  lines:
+  - 1
+  - 1
+  - 0
+  names:
+  - Open
+  - The Joyous
+  number: 8
+  pinyinImage: "z\xE9"
+  pinyinName: "du\xEC"
