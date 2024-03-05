@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@prisma/client": "^5.10.2",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0"
+  },
+  "name": "twc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/blessed": "^0.1.25",
+    "@types/node": "^20.11.24",
+    "inversify": "^6.0.2",
+    "typescript": "^5.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
