@@ -1,21 +1,24 @@
-class Mind implements IUnit, IPart<Mind> {
-
+export class LoaderUnit implements IUnit {
     displayType(): string {
-        return "Mind"
+        return this.displayTypeString;
     }
+
+    _id: string;    
+    displayTypeString = ""
 
     constructor(
-        public familyName: string,
         public firstName: string,
         public lastName: string,
-        public attributes: AttributesMind,
-        public abilities: IAbility[]
+        
+        displayTypeString: string
     ) {
         this._id = (firstName + "_" + lastName).replace(" ", "-")
+        this.displayTypeString = displayTypeString;
+
     }
-    _id: string;
 
     get_hash(length: number): string {
         throw new Error("Method not implemented.");
     }
+
 }

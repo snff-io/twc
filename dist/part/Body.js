@@ -5,6 +5,9 @@ class Body {
     lastName;
     attributes;
     abilities;
+    displayType() {
+        return "Body";
+    }
     static Empty() {
         return new Body("", "", "", AttributesBody.Empty(), []);
     }
@@ -14,7 +17,9 @@ class Body {
         this.lastName = lastName;
         this.attributes = attributes;
         this.abilities = abilities;
+        this._id = (firstName + "_" + lastName).replace(" ", "-");
     }
+    _id;
     get_hash(length) {
         throw new Error("Method not implemented.");
     }

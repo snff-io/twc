@@ -8326,7 +8326,7 @@ Elçin,Intriago Sanchez
 Horarasio,Jeoung
 Gulnazia,Jianjun
 Flowery,Loidy
-Formilus,Loughnan
+Formilus,Longhnan
 Gerd Johanne,Inad
 Edgar Rodrigo,Kamez
 Elmi Chaki,Khatu
@@ -101816,7 +101816,7 @@ Heintje,Irek
 Eyasu,Kellezi
 Gowshut,Kamph
 Hathooma,Karanikolova
-Enissi,Jetli
+Enissi,Jetlii
 Hp,Khalifi
 Femmy,Kamenská
 Elisabeth Bettan,Kayk

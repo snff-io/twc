@@ -1,8 +1,10 @@
 {
   "dependencies": {
     "@prisma/client": "^5.10.2",
+    "@types/mongodb": "^4.0.7",
     "blessed": "^0.1.81",
-    "blessed-contrib": "^4.11.0"
+    "blessed-contrib": "^4.11.0",
+    "mongodb": "^6.4.0"
   },
   "name": "twc",
   "version": "1.0.0",

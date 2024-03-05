@@ -84828,7 +84828,7 @@ Ana Judite,Zigron
 Abd El Ali,Zawistowska
 Boboman Serantlatla,Zadrożna
 Balog,Waterson
-Clarivel,Xhuzepe
+Clarivel,Zhuzepe
 Bjørn Anders,Wong Andrade
 Bungle,Winkelaar
 Anouar,Zaimoor
@@ -117496,7 +117496,7 @@ Dewi,Zilena
 Birdjan,Yuel
 Allan-Devid,Wolfhard
 Cheh Phoay,Xirdalan
-David Luis,Xachidze Papavadze
+David Luis,Zachidze Papavadze
 Dipayon,Xaritidu
 Asllanaj,Yagiw
 Bmoot,Xol Bol
@@ -136541,7 +136541,7 @@ Abdalhk,Zakani
 Dekunle,Yugen
 Bayazid,Yetgoue
 Arcelis,Zamanovic
-Axola,Yuseth
+Axola,Wuseth
 Bilal Khan,Zabirov
 Bsist,Xaneliyev
 Anna Carmela,Wkun
