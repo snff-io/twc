@@ -1,0 +1,4 @@
+interface IOnable<T> {
+
+    
+}

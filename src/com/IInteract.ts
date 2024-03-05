@@ -1,0 +1,4 @@
+interface IInteract<T> {
+
+    
+}
