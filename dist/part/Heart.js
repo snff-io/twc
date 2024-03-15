@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 class Heart {
     familyName;
     firstName;
@@ -17,6 +18,8 @@ class Heart {
         this._id = (firstName + "_" + lastName).replace(" ", "-");
     }
     _id;
+    Key = [Pair.None];
+    Aura = [Pair.None];
     get_hash(length) {
         throw new Error("Method not implemented.");
     }

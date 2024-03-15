@@ -1,5 +1,6 @@
 "use strict";
 // import { inject } from 'inversify';
+Object.defineProperty(exports, "__esModule", { value: true });
 // class Player implements IUnit, IPlayer {
 //     displayType(): string {
 //         return "Player"

@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 class Body {
     familyName;
     firstName;
@@ -20,6 +21,8 @@ class Body {
         this._id = (firstName + "_" + lastName).replace(" ", "-");
     }
     _id;
+    Key = [Pair.None];
+    Aura = [Pair.None];
     get_hash(length) {
         throw new Error("Method not implemented.");
     }

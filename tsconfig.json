@@ -1,21 +1,30 @@
 {
   "compilerOptions": {
     "target": "ESNext",
-    "module": "CommonJS",
+    "module": "NodeNext",
     "strict": true,
+    "isolatedModules": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "outDir": "./dist",
-    "rootDir": "./src",
+    "rootDir": "./app",
     "sourceMap": true,
-    "resolveJsonModule": true,
     "baseUrl": ".",
     "experimentalDecorators": true,
+    "moduleResolution": "NodeNext",
     "paths": {
-      "*": ["node_modules/*", "src/*"]
-    }
+      "*": [
+        "node_modules/*",
+        "app/*"
+      ]
+    },
   },
-  "include": ["src/**/*.ts"],
-  "exclude": ["node_modules", "dist"]
+  "include": [
+    "app/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
 }
